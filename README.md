@@ -30,10 +30,10 @@ Data Science Enthusiast | Python, SQL, Power BI | Crafting Insights from Data
 
 ### 🌟 Featured Projects
 
-- **[Watch Price Prediction](https://github.com/Suryansh216s/watch-price-prediction)**: XGBoost model (0.84 R²) for price prediction, Logistic Regression for seller classification, deployed with Streamlit.
-- **[Hotel Cancellation Prediction](https://github.com/Suryansh216s/hotel-cancellation)**: XGBoost model (84% Accuracy) to predict booking cancellations.
+- **[Watch Price Prediction](https://watch-price-and-seller-reliability.streamlit.app/)**: XGBoost model (0.84 R²) for price prediction, Logistic Regression for seller classification, deployed with Streamlit.
+- **[Hotel Cancellation Prediction](https://inn-hotels-deployment.streamlit.app/)**: XGBoost model (84% Accuracy) to predict booking cancellations.
 - **[Netflix Dashboard](https://github.com/Suryansh216s/netflix-dashboard)**: Power BI dashboard visualizing 25K+ entries by content type and region.
-- **[IPL Analysis](https://github.com/Suryansh216s/ipl-analysis)**: SQL analysis of 15+ years of IPL data, revealing 58% toss win rate.
+- **[IPL Analysis]()**: SQL analysis of 15+ years of IPL data, revealing 58% toss win rate.
 
 ### 🏆 Achievements
 
